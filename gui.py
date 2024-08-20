@@ -1,4 +1,5 @@
 # job_scraper/gui.py
+
 import tkinter as tk
 from tkinter import messagebox
 import threading
